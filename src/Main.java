@@ -6,7 +6,7 @@ public class Main {
         arrayList.add(1);
         arrayList.add(2);
         arrayList.add(3);
-        arrayList.add(1, 99); // insert at index 1
+        arrayList.add(1, 99);
         printList(arrayList);
 
         arrayList.remove(0);
@@ -22,7 +22,7 @@ public class Main {
         linkedList.add("A");
         linkedList.add("B");
         linkedList.add("C");
-        linkedList.add(1, "X"); // insert at index 1
+        linkedList.add(1, "X");
         printList(linkedList);
 
         linkedList.remove(2);
